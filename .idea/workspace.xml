@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12456215-20ce-4c38-b8b8-819bffb59070" name="Default Changelist" comment="" />
+    <list default="true" id="12456215-20ce-4c38-b8b8-819bffb59070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git_data" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25TkIoG61ZbbIVuY08WcgtkHv6z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager" selected="Python.db">
@@ -186,26 +188,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1648827355245">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1651002368477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648827355245" />
-    <state width="1899" height="203" key="GridCell.Tab.0.bottom" timestamp="1650652558649">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1651002368477" />
+    <state width="1899" height="203" key="GridCell.Tab.0.bottom" timestamp="1650653915411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650652558649" />
-    <state width="1899" height="203" key="GridCell.Tab.0.center" timestamp="1650652558649">
+    <state width="1899" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650653915411" />
+    <state width="1899" height="203" key="GridCell.Tab.0.center" timestamp="1650653915411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650652558649" />
-    <state width="1899" height="203" key="GridCell.Tab.0.left" timestamp="1650652558649">
+    <state width="1899" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650653915411" />
+    <state width="1899" height="203" key="GridCell.Tab.0.left" timestamp="1650653915411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650652558649" />
-    <state width="1899" height="203" key="GridCell.Tab.0.right" timestamp="1650652558649">
+    <state width="1899" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650653915411" />
+    <state width="1899" height="203" key="GridCell.Tab.0.right" timestamp="1650653915411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650652558649" />
+    <state width="1899" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650653915411" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1645573836112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
