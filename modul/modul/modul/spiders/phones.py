@@ -31,14 +31,14 @@ class PhonesSpider(scrapy.Spider):
         for i in range(0, 10):
             yield SeleniumRequest(
                 url=f"{self.start_urls[0]}/{i}/",
-                callback=self.parse_fridge,
+                callback=self.parse_phones,
                 wait_time=10,
                 wait_until=expected_conditions.element_to_be_clickable(
                     (By.CSS_SELECTOR,
                      ".model-shop-name .sn-div")
                 ),
             )
-    def parse_fridge(self, response):
+    def parse_phones(self, response):
         soup = BeautifulSoup(response.text, 'html.parser')
         phone_list = soup.find(id="list_form1").find_all('div')
         for phone in phone_list:
